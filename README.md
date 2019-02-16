@@ -29,3 +29,6 @@ Concepts should use
 02) Hypothesis testing
 03) Visualization
 03) Other useful
+
+
+push checking... Hesitha
