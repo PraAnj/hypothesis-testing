@@ -1,4 +1,4 @@
-# Data Science Group Project in cse_msc_19 Batch
+# Hypothesis testing basic example is presented
 
 This project is carried out as a project in data science class to practice following concepts,
 
